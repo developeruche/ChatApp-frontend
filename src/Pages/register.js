@@ -36,7 +36,7 @@ const Register = (props) => {
   return (
     <div className="loginContainer">
       <div className="inner">
-        <div className="logo">DEVTOT</div>
+        <div className="logo">ChatApp</div>
         <div className="title">Sign up</div>
         <AuthForm
           data={registerData}
